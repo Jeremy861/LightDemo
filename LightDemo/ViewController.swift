@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
     func lightswitched(){
         view.backgroundColor = lightOn ? .white : .black
-        print("test")
+    
     }
     
     override func viewDidLoad() {
